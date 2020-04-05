@@ -1,6 +1,9 @@
 # Deep-MIMO-Detection
 Data for IEEE Trans. Broadcasting Paper: M. Baek, S. Kwak, J. Jung, H. M. Kim and D. Choi, "Implementation Methodologies of Deep Learning-Based Signal Detection for Conventional MIMO Transmitters," in IEEE Transactions on Broadcasting, vol. 65, no. 3, pp. 636-642, Sept. 2019.
 
+- Data Description Document
+https://drive.google.com/open?id=1zh0r9l8mjP-DPxpQ19vxZievTxN_IAWf
+
 - Down Load Link
   > Data for Fig. 5 (Experimental Environment 1]
 https://drive.google.com/open?id=1-L5xF9TJByAeaF0lko_ow8pRU8ojFius
